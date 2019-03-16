@@ -100,7 +100,7 @@ Debug Link: -
 
 ![alt text](assets/smp_header.png "Logo Title Text 1")
 
-### SD2_Mls8
-Platform: Brackets  
+### SD2_Mls1
+Platform: Scratch  
 Project Link: [Milestone 1 - SMP Project](http://tinyurl.com/newMilestoneSMP-1)  
 Debug Link: -
