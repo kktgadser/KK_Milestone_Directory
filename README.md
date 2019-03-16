@@ -100,7 +100,49 @@ Debug Link: -
 
 ![alt text](assets/smp_header.png "Logo Title Text 1")
 
-### SD2_Mls1
+### SMP_Mls1
 Platform: Scratch  
-Project Link: [Milestone 1 - SMP Project](http://tinyurl.com/newMilestoneSMP-1)  
+Project Link: [Milestone 1 - SMP Project](http://tinyurl.com/newMilestoneSMP-1)    
 Debug Link: -
+
+### SMP_Mls2
+Platform: ClickTeam Fusion  
+Project Link: -  
+Debug Link: [Milestone 2 - SMP Debug](https://www.playcodemonkey.com/games/VDVBVlDx)  
+
+### SMP_Mls3
+Platform: Python   
+Project Link: -  
+Debug Link: [Milestone 3 - SMP Debug](http://bit.ly/smp_mls3_debug)
+
+### SMP_Mls4
+Platform: Python  
+Project Link:  
+* [Milestone 4 - SMP Project 1](https://groklearning.com/learn/python-playground/1/1/)  
+* [Milestone 4 - SMP Project 2](https://groklearning.com/learn/python-playground/2/1/)  
+
+Debug Link:  
+* [Milestone 4 - SMP Debug 1](https://groklearning.com/learn/microbit-playground/p1/1/)
+* [Milestone 4 - SMP Debug 2](https://groklearning.com/learn/microbit-playground/p1/2/)
+* [Milestone 4 - SMP Debug 3](https://groklearning.com/learn/microbit-playground/p1/3/)
+
+
+### SMP_Mls5
+Platform: Code.org - Web Lab  
+Project Link: -  
+Debug Link: [Milestone 5 - SMP Debug](https://www.w3schools.com/html/html_exercises.asp)
+
+### SMP_Mls6
+Platform: -   
+Project Link: -  
+Debug Link: -  
+
+### SMP_Mls7
+Platform: Khan Academy - SQL    
+Project Link: -  
+Debug Link: [Milestone 7 - SMP Debug](https://www.w3schools.com/sql/sql_exercises.asp)
+
+### SMP_Mls8
+Platform: -   
+Project Link: -  
+Debug Link: -  
