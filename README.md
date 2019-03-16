@@ -3,6 +3,8 @@
 # KK Milestone Directory
 Welcome! Here you can find the links for KodeKiddo's Milestone Tests.
 
+
+
 ![alt text](assets/sd1_header.png "Logo Title Text 1")
 ### SD1_Mls1
 Platform: Tynker  
@@ -78,8 +80,8 @@ Debug Link: [Milestone 4 - SD2 Debug](https://tinyurl.com/newMilestoneSD2-4)
 
 ### SD2_Mls5
 Platform: -  
-Project Link: - 
-Debug Link: - 
+Project Link: -  
+Debug Link: -  
 
 ### SD2_Mls6
 Platform: App Inventor  
@@ -97,4 +99,8 @@ Project Link: [Milestone 8 - SD2 Project](https://tinyurl.com/newMilestoneSD2-8)
 Debug Link: -
 
 ![alt text](assets/smp_header.png "Logo Title Text 1")
-Coming Soon!
+
+### SD2_Mls8
+Platform: Brackets  
+Project Link: [Milestone 1 - SMP Project](http://tinyurl.com/newMilestoneSMP-1)  
+Debug Link: -
