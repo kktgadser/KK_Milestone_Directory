@@ -3,7 +3,16 @@
 # KK Milestone Directory
 Welcome! Here you can find the links for KodeKiddo's Milestone Tests.
 
-
+| SD1         | SD2         | SMP         |
+|-------------|-------------|-------------|
+| [Milestone 1](#SD1_Mls1) | [Milestone 1](#SD2_Mls1) | [Milestone 1](#SMP_Mls1) |
+| [Milestone 2](#SD1_Mls2) | [Milestone 2](#SD2_Mls2) | [Milestone 2](#SMP_Mls2) |
+| [Milestone 3](#SD1_Mls3) | [Milestone 3](#SD2_Mls3) | [Milestone 3](#SMP_Mls3) |
+| [Milestone 4](#SD1_Mls4) | [Milestone 4](#SD2_Mls4) | [Milestone 4](#SMP_Mls4) |
+| [Milestone 5](#SD1_Mls5) | [Milestone 5](#SD2_Mls5) | [Milestone 5](#SMP_Mls5) |
+| [Milestone 6](#SD1_Mls6) | [Milestone 6](#SD2_Mls6) | [Milestone 6](#SMP_Mls6) |
+| [Milestone 7](#SD1_Mls7) | [Milestone 7](#SD2_Mls7) | [Milestone 7](#SMP_Mls7) |
+| [Milestone 8](#SD1_Mls8) | [Milestone 8](#SD2_Mls8) | [Milestone 8](#SMP_Mls8) |
 
 ![alt text](assets/sd1_header.png "Logo Title Text 1")
 ### SD1_Mls1
