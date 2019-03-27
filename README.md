@@ -142,21 +142,29 @@ Debug Link: -
 
 ### SMP_Mls1
 Platform: Scratch  
+>Create an educational game called Addition Escape using Scratch programming language. Students need to complete the template of the game by following the test’s requirements.
+
 Project Link: [Milestone 1 - SMP Project](http://tinyurl.com/newMilestoneSMP-1)    
 Debug Link: -
 
 ### SMP_Mls2
 Platform: ClickTeam Fusion  
+>Create a game in ClickTeam Fusion with some requirements
+
 Project Link: -  
 Debug Link: [Milestone 2 - SMP Debug](https://www.playcodemonkey.com/games/VDVBVlDx)  
 
 ### SMP_Mls3
-Platform: Python   
+Platform: Python  
+>Create several programs using Python programming language on Grok Learning platform.
+
 Project Link: -  
 Debug Link: [Milestone 3 - SMP Debug](http://bit.ly/smp_mls3_debug)
 
 ### SMP_Mls4
 Platform: Python  
+>Create several projects using Python and Turtle in GrokLearning platform.
+
 Project Link:  
 * [Milestone 4 - SMP Project 1](https://groklearning.com/learn/python-playground/1/1/)  
 * [Milestone 4 - SMP Project 2](https://groklearning.com/learn/python-playground/2/1/)  
@@ -169,6 +177,8 @@ Debug Link:
 
 ### SMP_Mls5
 Platform: Code.org - Web Lab  
+>Students create several web pages using HTML & CSS markup language on Code.org Web Lab platform
+
 Project Link: -  
 Debug Link: [Milestone 5 - SMP Debug](https://www.w3schools.com/html/html_exercises.asp)
 
@@ -179,6 +189,8 @@ Debug Link: -
 
 ### SMP_Mls7
 Platform: Khan Academy - SQL    
+>Students create several  SQL scripts on Khan Academy SQL IDE to solve data-related problems.
+
 Project Link: -  
 Debug Link: [Milestone 7 - SMP Debug](https://www.w3schools.com/sql/sql_exercises.asp)
 
