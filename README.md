@@ -19,7 +19,7 @@ Welcome! Here you can find the links for KodeKiddo's Milestone Tests.
 Platform: Tynker  
 >Make a simple Paddle game with the help of a tutorial, This milestone project gives them some of the 'pre-set' commands to help them within the tutorial, but they still have to understand the concept.  
 
-Project Link: [Milestone 1 - SD1 Project](https://www.tynker.com/ide/?p=5c779aa1b7ccdd33e3406fca)  
+Project Link: [Milestone 1 - SD1 Project](https://tinyurl.com/newMilestoneSD1-1-new)  
 Debug Link: 
 * [Milestone 1 - SD1 Debug 1.1](https://www.tynker.com/ide/?p=5c779858cebfbd386161e4ff)
 * [Milestone 1 - SD1 Debug 1.2](https://www.tynker.com/ide/?p=59dbc1445ae0292c378b45d1)
