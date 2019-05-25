@@ -164,6 +164,8 @@ Debug Link: [Milestone 3 - SMP Debug](http://bit.ly/smp_mls3_debug)
 ### SMP_Mls4
 Platform: Python  
 >Create several projects using Python and Turtle in GrokLearning platform.
+Login for the Debug Question: theo.amantha.kodekiddo@get.gl
+Password: groklearning
 
 Project Link:  
 * [Milestone 4 - SMP Project 1](https://groklearning.com/learn/python-playground/1/1/)  
