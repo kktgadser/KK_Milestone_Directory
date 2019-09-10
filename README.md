@@ -84,8 +84,7 @@ Debug Link: [Milestone 8 - SD1 Debug](https://tinyurl.com/DebugNewMilestoneSD1-8
 Platform: Tynker  
 >Make a simple Animation for the Interactive Puppy to do something when touching other objects. Make the puppy to move, play sounds, and change custome when any thing touch it.
 
-Project Link: [Milestone 1 - SD2 Project](https://tinyurl.com/newMilestoneSD2-1)
-atau Project Link: [Milestone 1 - SD2 Project](https://www.tynker.com/ide/v3?type=diy&p=5d776021cebfbd576f71a8a8)
+Project Link: [Milestone 1 - SD2 Project](https://www.tynker.com/ide/v3?type=diy&p=5d776021cebfbd576f71a8a8)
 Debug Link: 
 * [Milestone 1 - SD2 Debug 1.1-1.5](https://scratch.mit.edu/studios/475483/)
 * [Milestone 1 - SD2 Debug 2.1-2.5](https://scratch.mit.edu/studios/475539/) 
