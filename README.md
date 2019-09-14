@@ -159,8 +159,8 @@ Debug Link: [Milestone 2 - SMP Debug](https://www.playcodemonkey.com/games/VDVBV
 Platform: Python  
 >Create several programs using Python programming language on Grok Learning platform.
 
-Project Link: [Milestone 3 - SMP Project](https://docs.google.com/document/d/1m-UbIUyPZBgqViMb_fTm6lev9_Rs_y31BR7utFmOvLk/edit?usp=sharing)
-Debug Link: [Milestone 3 - SMP Debug](http://bit.ly/smp_mls3_debug)
+Project Link: [Milestone 3 - SMP Project](https://docs.google.com/document/d/1m-UbIUyPZBgqViMb_fTm6lev9_Rs_y31BR7utFmOvLk/edit?usp=sharing)  
+Debug Link: [Milestone 3 - SMP Debug](http://bit.ly/smp_mls3_debug)  
 
 ### SMP_Mls4
 Platform: Python  
