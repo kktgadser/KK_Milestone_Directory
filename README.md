@@ -195,7 +195,7 @@ Debug Link: -
 Platform: Khan Academy - SQL    
 >Students create several  SQL scripts on Khan Academy SQL IDE to solve data-related problems.
 
-Project Link: [Milestone 7 - SMP Project](https://github.com/kktgadser/SMP_Mls7/blob/master/README.md) 
+Project Link: [Milestone 7 - SMP Project](https://github.com/kktgadser/SMP_Mls7/blob/master/README.md)  
 Debug Link: [Milestone 7 - SMP Debug](https://www.w3schools.com/sql/sql_exercises.asp)
 
 ### SMP_Mls8
